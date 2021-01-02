@@ -6,7 +6,7 @@
     <img align="right" width="500px" src="https://scontent.fhmo2-2.fna.fbcdn.net/v/t1.0-9/123338450_10214393058419868_6491019204627060330_o.jpg?_nc_cat=100&ccb=2&_nc_sid=09cbfe&_nc_ohc=VBwl2N38r1cAX8rJjpX&_nc_ht=scontent.fhmo2-2.fna&oh=0924117e2650156a9fa02b24c9936198&oe=6015D7FB" />           
 </p>
 
-I am a Shopify developer at [Team54](https://team54.co/), software engineering student and a passionate 
+I am a Shopify developer at [Team54](https://team54.co/), software engineering student and freelancer.
 
 <h3 align="center"> :briefcase: I’m working with</h3>
 <p align="center">    
