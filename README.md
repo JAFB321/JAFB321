@@ -30,9 +30,8 @@ I am a Shopify developer at [Team54](https://team54.co/), software engineering s
     <img width="38px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />  
     &nbsp;
     <img width="38px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" />      
-    &nbsp;
-    <img width="38px" src="https://media.discordapp.net/attachments/763633854011015228/794803096894046248/5847f40ecef1014c0b5e488a.png" />  
-    
+    <img width="38px" src="https://media.discordapp.net/attachments/763633854011015228/794803096894046248/5847f40ecef1014c0b5e488a.png" />       
+    <img height="40px" src="https://github.com/graphql/artwork/blob/main/GraphQL/horizontal/GraphQL-logo-white.png?raw=true" />  
     
     
 </p>
