@@ -2,6 +2,7 @@
 <h1 align="center"> Hello, I’m Jose Antonio 👋</h1>
 
 
+
 <p>    
     <img align="right" width="500px" src="https://scontent.fhmo2-2.fna.fbcdn.net/v/t1.0-9/123338450_10214393058419868_6491019204627060330_o.jpg?_nc_cat=100&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeF1JyKSwetHCdtwID-Gui6jv2iN76cLrIm_aI3vpwusiRUl_5RBkVChidaPJTeQMLM&_nc_ohc=85XYuQYBrkkAX8HepVM&_nc_ht=scontent.fhmo2-2.fna&oh=dfa9560df9bc4cd5d5aeae9b77c8fc6e&oe=603D64FB" />           
 </p>
@@ -57,6 +58,15 @@ I am a Shopify developer at [Team54](https://team54.co/), software engineering s
 </p>
 
 <br>
+
+<p align="center">
+    <a href="https://ko-fi.com/L3L53EXUA">
+        <img align="center" width="400px" src="https://ko-fi.com/img/githubbutton_sm.svg" />     
+    </a>
+    
+
+</p>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/jose-antonio-felix-ballesteros-9b1111192/" target="blank"><img align="center" src="https://media.discordapp.net/attachments/763633854011015228/794844336251994122/linkedin_1.png" alt="jose-antonio-felix-ballesteros-9b1111192" height="40px" /></a>
