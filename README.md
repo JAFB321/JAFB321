@@ -4,7 +4,7 @@
 
 
 <p>    
-    <img align="right" width="500px" src="https://scontent.fhmo2-2.fna.fbcdn.net/v/t1.0-9/123338450_10214393058419868_6491019204627060330_o.jpg?_nc_cat=100&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeF1JyKSwetHCdtwID-Gui6jv2iN76cLrIm_aI3vpwusiRUl_5RBkVChidaPJTeQMLM&_nc_ohc=85XYuQYBrkkAX8HepVM&_nc_ht=scontent.fhmo2-2.fna&oh=dfa9560df9bc4cd5d5aeae9b77c8fc6e&oe=603D64FB" />           
+    <img align="right" width="500px" src="https://scontent.fhmo2-2.fna.fbcdn.net/v/t1.0-9/123338450_10214393058419868_6491019204627060330_o.jpg?_nc_cat=100&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeF1JyKSwetHCdtwID-Gui6jv2iN76cLrIm_aI3vpwusiRUl_5RBkVChidaPJTeQMLM&_nc_ohc=271egmaMl5YAX-FDdcG&_nc_ht=scontent.fhmo2-2.fna&oh=cdf93d8c9685375f80cd54e21dc7ecfe&oe=6068E67B" />           
 </p>
 
 I am a Shopify developer, software engineering student and freelancer.
