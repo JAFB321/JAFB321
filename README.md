@@ -7,7 +7,7 @@
     <img align="right" width="500px" src="https://raw.githubusercontent.com/JAFB321/JAFB321/main/167536842_10215293428368554_2948253464207431290_n.jpg" />           
 </p>
 
-I am a Shopify developer, software engineering student and freelancer.
+I am a Web developer, software engineering student and freelancer.
 
 <h3 align="center"> :briefcase: I’m working with</h3>
 <p align="center">    
