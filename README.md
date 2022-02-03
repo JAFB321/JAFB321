@@ -15,23 +15,26 @@ I am a Web developer, software engineering student and freelancer.
     &nbsp;
     <img width="38px" src="./media/Shopify.png" />
     &nbsp;
-    <img width="38px" src="./media/Sass.png" />  
+    <img width="40px" src="./media/Javascript.png" />   
+    &nbsp;
+    <img width="40px" src="./media/Sass.png" />  
     &nbsp;
     <img width="38px" src="./media/NET_core.png" />    
-    &nbsp;
-    <img width="40px" src="./media/Javascript.png" />              
+               
 </p>
 
 <h3 align="center">🧪 I’m learning</h3>
 <p align="center"> 
-    <img width="38px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" />  
+    <img width="38px" src="./media/react.png" />     
     &nbsp;
-    <img width="38px" src="https://cdn.auth0.com/blog/react-js/react.png" />     
+    <img style="" width="39px" src="./media/nextjs-icon-light.svg" />  
     &nbsp;
-    <img width="38px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />  
+    <img width="38px" src="./media/Typescript.svg" />  
     &nbsp;
-    <img width="38px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" />      
-    <img width="38px" src="https://media.discordapp.net/attachments/763633854011015228/794803096894046248/5847f40ecef1014c0b5e488a.png" />       
+    <img width="38px" src="./media/Tailwind.png" />      
+    <img width="38px" src="./media/Firebase.png" />       
+
+
 <!--     <img height="40px" src="https://github.com/graphql/artwork/blob/main/GraphQL/horizontal/GraphQL-logo-white.png?raw=true" />   -->
     
     
@@ -46,7 +49,7 @@ I am a Web developer, software engineering student and freelancer.
     <img width="38px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/125px-Visual_Studio_Icon_2019.svg.png" />   
 </p>
 
-<h3 align="center">👌 Other skills </h3>
+<!-- <h3 align="center">👌 Other skills </h3>
 <p align="center"> 
         <img width="38px" src="https://cdn.discordapp.com/attachments/763633854011015228/794805471264636948/heroku-logo-stroke-gradient.svg" />  
       &nbsp;
@@ -55,7 +58,7 @@ I am a Web developer, software engineering student and freelancer.
     <img width="45px" src="https://digibuc.com/cursos/wp-content/uploads/2019/06/3420e571b3d7a4a348d8fad91e3bfda4.png" />    
       <img width="45px" src="https://blog.desafiolatam.com/wp-content/uploads/2018/05/java-logo.png" />  
     
-</p>
+</p> -->
 
 <br>
 
