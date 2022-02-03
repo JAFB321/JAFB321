@@ -13,13 +13,13 @@ I am a Web developer, software engineering student and freelancer.
 <p align="center">    
     <img width="38px" src="./media/HTML5.png" />
     &nbsp;
-    <img width="38px" src="./media/Sass.png" />
+    <img width="38px" src="./media/Shopify.png" />
     &nbsp;
-    <img width="38px" src="./media/" />  
+    <img width="38px" src="./media/Sass.png" />  
     &nbsp;
-    <img width="38px" src="./media/" />    
+    <img width="38px" src="./media/NET_core.png" />    
     &nbsp;
-    <img width="40px" src="./media/" />              
+    <img width="40px" src="./media/Javascript.png" />              
 </p>
 
 <h3 align="center">🧪 I’m learning</h3>
