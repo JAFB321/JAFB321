@@ -63,8 +63,6 @@ I am a Web developer, software engineering student and freelancer.
     <a href="https://ko-fi.com/L3L53EXUA">
         <img align="center" width="400px" src="https://ko-fi.com/img/githubbutton_sm.svg" />     
     </a>
-    
-
 </p>
 
 <h3 align="center">Connect with me:</h3>
