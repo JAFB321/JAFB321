@@ -60,13 +60,7 @@ I am a Web developer, software engineering student and freelancer.
     
 </p> -->
 
-<br>
 
-<p align="center">
-    <a href="https://ko-fi.com/L3L53EXUA">
-        <img align="center" width="400px" src="https://ko-fi.com/img/githubbutton_sm.svg" />     
-    </a>
-</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -75,6 +69,11 @@ I am a Web developer, software engineering student and freelancer.
  <a href="mailto:jafb321@gmail.com" target="blank"><img align="center" src="https://media.discordapp.net/attachments/763633854011015228/794845971132842004/5847fafdcef1014c0b5e48ce.png?width=634&height=480" alt="jose-antonio-felix-ballesteros-9b1111192" height="39px" /></a>
 </p>
 
+<p align="center">
+<a href="https://ko-fi.com/L3L53EXUA">
+    <img align="center" width="300px" src="https://ko-fi.com/img/githubbutton_sm.svg" />     
+</a>    
+</p>
 
 
 <!-- asd
