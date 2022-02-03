@@ -11,15 +11,15 @@ I am a Web developer, software engineering student and freelancer.
 
 <h3 align="center"> :briefcase: I’m working with</h3>
 <p align="center">    
-    <img width="38px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1200px-HTML5_Badge.svg.png" />
+    <img width="38px" src="./media/HTML5.png" />
     &nbsp;
-    <img width="38px" src="https://redmine.cautivatech.com/redmine/attachments/download/747/js-logo-1.png" />
+    <img width="38px" src="./media/Sass.png" />
     &nbsp;
-    <img width="38px" src="https://cdn.iconscout.com/icon/free/png-512/shopify-226579.png" />  
+    <img width="38px" src="./media/" />  
     &nbsp;
-    <img width="38px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" />    
+    <img width="38px" src="./media/" />    
     &nbsp;
-    <img width="40px" src="https://andrewsmithdeveloper.com/img/sass-new.4c1dd90f.png" />              
+    <img width="40px" src="./media/" />              
 </p>
 
 <h3 align="center">🧪 I’m learning</h3>
