@@ -66,7 +66,11 @@ I am a Web developer, software engineering student and freelancer.
 <p align="center">
 <a href="https://www.linkedin.com/in/jose-antonio-felix-ballesteros-9b1111192/" target="blank"><img align="center" src="https://media.discordapp.net/attachments/763633854011015228/794844336251994122/linkedin_1.png" alt="jose-antonio-felix-ballesteros-9b1111192" height="40px" /></a>
   &nbsp;
+<a href="mailto:jafb321@gmail.com" target="blank"><img align="center" src="./media/dev.png" alt="jose-antonio-felix-ballesteros-9b1111192" height="44px" style="margin-top: 1px;" />
+</a>
+&nbsp;
  <a href="mailto:jafb321@gmail.com" target="blank"><img align="center" src="https://media.discordapp.net/attachments/763633854011015228/794845971132842004/5847fafdcef1014c0b5e48ce.png?width=634&height=480" alt="jose-antonio-felix-ballesteros-9b1111192" height="39px" /></a>
+  &nbsp;
 </p>
 
 <br>
