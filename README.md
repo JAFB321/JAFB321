@@ -42,12 +42,13 @@ Currently working as backend developer at **Everst**.
 </p>
 
 <br>
+<!-- asd
 <p align="center">
 <a href="https://ko-fi.com/L3L53EXUA">
     <img align="center" width="250px" src="https://ko-fi.com/img/githubbutton_sm.svg" />     
 </a>    
 </p>
-
+-->
 
 <!-- asd
 - 🌱 I’m currently learning ...
