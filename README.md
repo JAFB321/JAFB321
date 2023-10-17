@@ -5,7 +5,7 @@
     <img align="right" width="500px" src="./media/me.jpg" />           
 </p>
 
-Currently working as backend developer at **Everst**.  
+Currently working as backend developer at **DD360**.  
 
 <h3 align="center">💻 I like to code with</h3>
 <p align="center">    
