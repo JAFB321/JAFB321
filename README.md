@@ -1,11 +1,10 @@
 
 <h1 align="center"> Hello, I’m Jose Antonio 👋</h1>
 
-<p>    
-    <img align="right" width="500px" src="./media/me.jpg" />           
-</p>
 
-Currently working as backend developer at **DD360**.  
+<p align="center">  
+Currently working as backend developer at <strong>DD360</strong>
+</p>
 
 <h3 align="center">💻 I like to code with</h3>
 <p align="center">    
