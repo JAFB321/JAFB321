@@ -3,7 +3,7 @@
 
 
 <p align="center">  
-Currently working as Tech Lead at <strong>[Monopolio](https://monopolio.com.mx/avaluos)</strong>
+Currently working as Tech Lead at <strong> <a href="https://monopolio.com.mx/avaluos">Monopolio</a> </strong>
 </p>
 
 <h3 align="center">💻 I like to code with</h3>
